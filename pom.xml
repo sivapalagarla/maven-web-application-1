@@ -96,15 +96,15 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>nexus</id>
+	      <id>S3Bucket</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://54.255.174.111:8081/repository/flipkart-release/</url>
+	      <url>https://s3.console.aws.amazon.com/s3/buckets?region=ap-south-1 and region=ap-south-1</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>nexus</id>
+	      <id>S3Bucket</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.255.174.111:8081/repository/flipkart-snapshot/</url>
+	      <url>https://s3.console.aws.amazon.com/s3/buckets?region=ap-south-1 and region=ap-south-1</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
