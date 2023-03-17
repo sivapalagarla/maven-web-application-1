@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>S3Bucket</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>https://s3.console.aws.amazon.com/s3/buckets?region=ap-south-1 and region=ap-south-1</url>
+	      <url>https://s3.console.aws.amazon.com/s3/buckets?region=ap-south-1andregion=ap-south-1</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>S3Bucket</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>https://s3.console.aws.amazon.com/s3/buckets?region=ap-south-1 and region=ap-south-1</url>
+	      <url>https://s3.console.aws.amazon.com/s3/buckets?region=ap-south-1andregion=ap-south-1</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
